@@ -1,0 +1,1 @@
+{"name":"Local: sleep","url":"d:\\Coursera\\sleep.cpp","tests":[{"id":1624796164387,"input":"1\n3 1 \n111","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coursera\\sleep.cpp","group":"local","local":true}
