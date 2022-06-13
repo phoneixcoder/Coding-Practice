@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "workbench.editor.autoLockGroups": {
+        "workbench.input.interactive": true,
+        "interactive": true
+    }
+}
