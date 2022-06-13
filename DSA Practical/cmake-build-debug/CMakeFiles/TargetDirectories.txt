@@ -1,0 +1,3 @@
+D:/DSA Practical/cmake-build-debug/CMakeFiles/DSA_Practical.dir
+D:/DSA Practical/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DSA Practical/cmake-build-debug/CMakeFiles/rebuild_cache.dir

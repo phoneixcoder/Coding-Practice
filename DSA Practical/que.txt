@@ -1,0 +1,27 @@
+A chef was called to the board by his teacher and was given N number of elements. He was then given another number x. The chef was told to find product of all the subsets of that set of elements and was informed about the condition that the product should be less than or equal to the given number x. 
+
+So your task is to help the chef to find the appropriate number of subsets that fulfils the condition given by his teacher.
+
+Input:
+
+The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
+The first line of each test case contains two space-separated integers N and X.
+The second line contains N space-separated integers  S1,S2,…,
+
+Output:
+
+For each test case, print a single line containing one integer — the number of qualified teams.
+
+Constraints
+1≤T≤1,000
+1≤K≤N≤105
+1≤Si≤109 for each valid i
+the sum of N for all test cases does not exceed 10^6
+
+Example:
+Input:
+N = 4
+arr[] = {2, 4, 5, 3}
+X = 12
+Output:
+8

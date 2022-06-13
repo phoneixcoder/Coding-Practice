@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "xutility": "cpp",
+        "system_error": "cpp",
+        "xlocale": "cpp",
+        "xstring": "c"
+    }
+}

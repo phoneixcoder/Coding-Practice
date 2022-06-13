@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/DSA Practical/DoubltLinkedList.c
+stdio.h
+-
+stdlib.h
+-
+
+D:/DSA Practical/SinglyLinkedList.c
+stdio.h
+-
+stdlib.h
+-
+
+D:/DSA Practical/Stack.c
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+
